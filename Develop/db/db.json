@@ -1,26 +1,22 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
         "text": "Hello",
         "title": "Hello",
         "id": "924a"
     },
     {
-        "text": "sdalsd';asld",
-        "title": "alskjdlaks",
+        "text": "I can delete all of these text entrys",
+        "title": "Look at the uuid",
         "id": "8098"
     },
     {
-        "text": "dfasdasdasdas",
-        "title": "weqweqwe",
+        "text": "I want to see if this text gets replaced",
+        "title": "Does this work?",
         "id": "910d"
     },
     {
-        "text": "Need to figure out how to delete\n",
-        "title": "How to delete this",
-        "id": "ab2b"
+        "text": "This is another note that we are adding",
+        "title": "This is the title",
+        "id": "1e18"
     }
 ]
