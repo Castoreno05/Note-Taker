@@ -1,5 +1,12 @@
 # Note-Taker
 
+## Table of Contents
+
+* [Description](#description)
+* [Applcation](#application)
+* [Installation Process](#installation-process)
+* [Tools Used](#tools-used)
+* [Contact Information](#contact-information)
 
 ## Description
 
