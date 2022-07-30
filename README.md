@@ -3,9 +3,9 @@
 
 ## Description
 
-In this application you will be given the ability to write and save notes using Express.js.
+In this application you will be given the ability to write and save notes using Express.js. If you want to keep 
 
-If you want to keep the note, use the save button that appears next to the plus button. Once the  
+the note, use the save button that appears next to the plus button. Once the  
 
 save button is selected the saved note will update to the left of the screen. This is Where you have 
 
