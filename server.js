@@ -4,7 +4,7 @@ const api = require('./routes/api');
 
 const app = express();
 // Add a port
-const PORT = 3001;
+const port = process.env.PORT || 5001;
 
 // Allows data to be parsed 
 app.use(express.json());
@@ -20,6 +20,4 @@ app.get("/notes", (req, res) =>
 app.get("*", (req, res) =>
   res.sendFile(path.join(__dirname, "Develop/public/index.html"))
 );
-app.listen(PORT, () =>
-  console.log(`App Listening at http://localhost:${PORT}`)
-);
+app.listen(port, () => console.log(`App Listening at http://localhost:${port}`));
