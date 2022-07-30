@@ -6,6 +6,7 @@ const app = express();
 // Add a port
 const PORT = 3001;
 
+// Allows data to be parsed 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static("Develop/public"));

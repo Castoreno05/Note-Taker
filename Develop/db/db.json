@@ -1,22 +1,37 @@
 [
     {
-        "text": "Hello",
-        "title": "Hello",
-        "id": "924a"
+        "text": "More notes",
+        "title": "Making Notes",
+        "id": 0
     },
     {
-        "text": "I can delete all of these text entrys",
-        "title": "Look at the uuid",
-        "id": "8098"
+        "text": "Lets make a lot in json file",
+        "title": "Another Note",
+        "id": 1
     },
     {
-        "text": "I want to see if this text gets replaced",
-        "title": "Does this work?",
-        "id": "910d"
+        "text": "asdasdasdasd",
+        "title": "asdasdasd",
+        "id": 2
     },
     {
-        "text": "This is another note that we are adding",
-        "title": "This is the title",
-        "id": "1e18"
+        "text": "Here is more notes\n",
+        "title": "Making more notes",
+        "id": "7ad4"
+    },
+    {
+        "text": "Another one",
+        "title": "Another one",
+        "id": "42b9"
+    },
+    {
+        "text": "One more for good measure",
+        "title": "One more",
+        "id": "a0d6"
+    },
+    {
+        "text": "Last one i swear",
+        "title": "OK last one",
+        "id": "33d1"
     }
 ]

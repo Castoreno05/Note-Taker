@@ -62,12 +62,13 @@ api.post("/notes", (req, res) => {
 // Delete notes using the id
 api.delete("/notes/:id", (req, res) => {
   fs.readFile("./Develop/db/db.json", "utf8", (err, data) => {
-    const { id } = req.params
+    const id = req.params.id;
     if (err) {
       console.error(err);
     } else {
-      console.log(data)
-      res.json(JSON.parse(data));
+      console.log(id)
+      const data = res.json(JSON.parse);
+      console.log(data);
     }
   });
 });
