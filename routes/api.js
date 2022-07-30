@@ -1,5 +1,4 @@
 const api = require("express").Router();
-const { channel } = require("diagnostics_channel");
 const fs = require("fs");
 const uuid = require("../helpers/uuid");
 
