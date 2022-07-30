@@ -38,7 +38,7 @@ To access Note-Taker click the link below
 
 ## Installation Process
 
-For users that are wanting to run this application locally, after the repository has been cloned , make sure node.js 
+For users that are wanting to run this application locally, before the repository has been cloned , make sure node.js 
 
 is installed into your system. Open the terminal for the server.js and enter the command "npm i" to install the local 
 
