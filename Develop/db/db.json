@@ -1,37 +1,7 @@
 [
-    {
-        "text": "More notes",
-        "title": "Making Notes",
-        "id": 0
-    },
-    {
-        "text": "Lets make a lot in json file",
-        "title": "Another Note",
-        "id": 1
-    },
-    {
-        "text": "asdasdasdasd",
-        "title": "asdasdasd",
-        "id": 2
-    },
-    {
-        "text": "Here is more notes\n",
-        "title": "Making more notes",
-        "id": "7ad4"
-    },
-    {
-        "text": "Another one",
-        "title": "Another one",
-        "id": "42b9"
-    },
-    {
-        "text": "One more for good measure",
-        "title": "One more",
-        "id": "a0d6"
-    },
-    {
-        "text": "Last one i swear",
-        "title": "OK last one",
-        "id": "33d1"
-    }
+  {
+    "text": "When making a new note. Include a title and some text. Then save the note by selecting the save button at the top right.\nThe saved note will update to the left where it will be accessible to the user. When you want to reference the note again \nselect it from the column. To add a new note select the plus button.",
+    "title": "Instructions",
+    "id": "475b"
+  }
 ]
