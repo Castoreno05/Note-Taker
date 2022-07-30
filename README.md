@@ -18,3 +18,20 @@ If you want to keep the note, use the save button that appears next to the plus 
 
 ---
 
+## Tools Used
+
+* Node.js
+
+* Express.js
+
+* Npm
+  * nodemon
+  * path
+  * fs
+
+* Insomnia
+
+* Heroku
+
+---
+
