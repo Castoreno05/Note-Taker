@@ -33,9 +33,11 @@ To access Note-Taker click the link below
 
 For users that are wanting to run this application locally, after the repository has been cloned , make sure node.js 
 
-is installed into your system. Open the terminal for the server.js and enter the command "npm i" to install the local packages.
+is installed into your system. Open the terminal for the server.js and enter the command "npm i" to install the local 
 
-Once the packages are installed, enter "npm run server". The application is now accessible from http://localhost:5001 in the browser
+packages. Once the packages are installed, enter "npm run server". The application is now accessible from 
+
+http://localhost:5001 in the browser
 
 ---
 
