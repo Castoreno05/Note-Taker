@@ -11,7 +11,19 @@ saved note will update to the left of the screen. This is Where you have the opt
 
 ---
 
-## Installation
+## Application
+
+Homepage
+![Note-Taker](./Images/Home%20page.PNG)
+
+Instructions
+![Note-Taker](./Images/Instructions.PNG)
+
+New Entry
+![Note-Taker](./Images/New%20Entry.PNG)
+
+
+To access Note-Taker click the link below
 
 <https://note-taker07-28-22.herokuapp.com/>
 
